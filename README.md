@@ -1,30 +1,13 @@
 <div align="center">
 
-<svg width="100%" height="200" viewBox="0 0 1200 200" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#0d1117"/>
-      <stop offset="100%" stop-color="#13192b"/>
-    </linearGradient>
-    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#7c5cff"/>
-      <stop offset="100%" stop-color="#22d3ee"/>
-    </linearGradient>
-  </defs>
-  <rect width="1200" height="200" fill="url(#bg)"/>
-  <circle cx="1080" cy="40" r="2" fill="#7c5cff" opacity="0.8"/>
-  <circle cx="1130" cy="80" r="1.5" fill="#22d3ee" opacity="0.6"/>
-  <circle cx="1050" cy="120" r="1" fill="#7c5cff" opacity="0.5"/>
-  <circle cx="1150" cy="40" r="1.5" fill="#22d3ee" opacity="0.7"/>
-  <circle cx="80" cy="160" r="1.5" fill="#7c5cff" opacity="0.5"/>
-  <circle cx="40" cy="50" r="1" fill="#22d3ee" opacity="0.6"/>
-  <rect x="60" y="50" width="3" height="100" fill="url(#accent)" opacity="0.9"/>
-  <text x="90" y="100" font-family="Fira Code, monospace" font-size="42" font-weight="700" fill="#f0f0f5">Saurabh Kumar Pandey</text>
-  <text x="90" y="138" font-family="Fira Code, monospace" font-size="18" fill="#7c5cff">Full-Stack Engineer · Building Sanchar Sarthi 🚂</text>
-  <text x="90" y="166" font-family="Fira Code, monospace" font-size="14" fill="#8b94a8">3rd-Year CSE @ Chandigarh University · IEEE Published Researcher</text>
-</svg>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c5cff,100:22d3ee&height=200&section=header&text=Saurabh%20Kumar%20Pandey&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=Full-Stack%20Engineer%20%7C%20Building%20Sanchar%20Sarthi&descAlignY=62&descSize=16&fontAlign=50"/>
 
 <br/>
+
+<img src="https://img.shields.io/badge/3rd--Year%20CSE-Chandigarh%20University-7c5cff?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/IEEE-Published%20Researcher-22d3ee?style=for-the-badge"/>
+
+<br/><br/>
 
 <a href="https://www.linkedin.com/in/saurabh-kumar-pandey-234324321/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -46,40 +29,22 @@
 
 ## 💻 Terminal
 
-<div align="center">
+```bash
+saurabh@dev:~$ whoami
+> Saurabh Kumar Pandey — Full-Stack Engineer, 3rd-Year CSE
 
-<svg width="720" height="320" viewBox="0 0 720 320" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="termBar" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#1a1f2e"/>
-      <stop offset="100%" stop-color="#13192b"/>
-    </linearGradient>
-  </defs>
-  <rect x="0" y="0" width="720" height="320" rx="12" fill="#0d1117" stroke="#2a2f3e" stroke-width="1.5"/>
-  <rect x="0" y="0" width="720" height="36" rx="12" fill="url(#termBar)"/>
-  <rect x="0" y="24" width="720" height="12" fill="#13192b"/>
-  <circle cx="24" cy="18" r="6" fill="#ff5f56"/>
-  <circle cx="46" cy="18" r="6" fill="#ffbd2e"/>
-  <circle cx="68" cy="18" r="6" fill="#27c93f"/>
-  <text x="360" y="22" font-family="Fira Code, monospace" font-size="13" fill="#8b94a8" text-anchor="middle">saurabh@sanchar-sarthi: ~</text>
+saurabh@dev:~$ cat current_focus.txt
+→ Sanchar Sarthi   : React + Spring Boot Railway booking platform
+→ Research         : IEEE Published — Multimodal Deepfake Detection
+→ Status           : Open to internships
 
-  <text font-family="Fira Code, monospace" font-size="15" fill="#c9d1d9">
-    <tspan x="24" y="64"><tspan fill="#22d3ee">saurabh@dev</tspan><tspan fill="#8b94a8">:~$</tspan> whoami</tspan>
-    <tspan x="24" y="90" fill="#f0f0f5">Saurabh Kumar Pandey — Full-Stack Engineer, 3rd-Year CSE</tspan>
+saurabh@dev:~$ ./check_tatkal_status.sh
+[OK] Booking funnel  : search → passenger → payment → PNR  ✔
+[OK] Backend bridge  : Spring Boot + MySQL + Redis + Kafka ✔
+[OK] Deployment      : Live on Vercel                      ✔
 
-    <tspan x="24" y="124"><tspan fill="#22d3ee">saurabh@dev</tspan><tspan fill="#8b94a8">:~$</tspan> cat current_focus.txt</tspan>
-    <tspan x="24" y="150" fill="#7c5cff">→ Sanchar Sarthi: React + Spring Boot Railway platform</tspan>
-    <tspan x="24" y="172" fill="#7c5cff">→ IEEE Published: Multimodal Deepfake Detection</tspan>
-
-    <tspan x="24" y="206"><tspan fill="#22d3ee">saurabh@dev</tspan><tspan fill="#8b94a8">:~$</tspan> ./check_tatkal_status.sh</tspan>
-    <tspan x="24" y="232" fill="#27c93f">[OK] Booking funnel: search → passenger → payment → PNR ✓</tspan>
-    <tspan x="24" y="254" fill="#27c93f">[OK] Backend swap points: ready for Spring Boot ✓</tspan>
-
-    <tspan x="24" y="288"><tspan fill="#22d3ee">saurabh@dev</tspan><tspan fill="#8b94a8">:~$</tspan> <tspan fill="#f0f0f5">_</tspan></tspan>
-  </text>
-</svg>
-
-</div>
+saurabh@dev:~$ _
+```
 
 ---
 
@@ -180,5 +145,7 @@ Indian Railway booking is broken, especially during Tatkal. Sanchar Sarthi tackl
 <div align="center">
 
 ### 🤝 Currently open to internships & ambitious collaborations
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22d3ee,100:7c5cff&height=100&section=footer"/>
 
 </div>
