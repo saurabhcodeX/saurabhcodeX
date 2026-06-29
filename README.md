@@ -1,6 +1,28 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c5cff,100:22d3ee&height=220&section=header&text=Saurabh%20Kumar%20Pandey&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Engineer%20%7C%20Building%20Sanchar%20Sarthi%20%F0%9F%9A%82&descAlignY=58&descSize=18"/>
+<svg width="100%" height="200" viewBox="0 0 1200 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0d1117"/>
+      <stop offset="100%" stop-color="#13192b"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#7c5cff"/>
+      <stop offset="100%" stop-color="#22d3ee"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="200" fill="url(#bg)"/>
+  <circle cx="1080" cy="40" r="2" fill="#7c5cff" opacity="0.8"/>
+  <circle cx="1130" cy="80" r="1.5" fill="#22d3ee" opacity="0.6"/>
+  <circle cx="1050" cy="120" r="1" fill="#7c5cff" opacity="0.5"/>
+  <circle cx="1150" cy="40" r="1.5" fill="#22d3ee" opacity="0.7"/>
+  <circle cx="80" cy="160" r="1.5" fill="#7c5cff" opacity="0.5"/>
+  <circle cx="40" cy="50" r="1" fill="#22d3ee" opacity="0.6"/>
+  <rect x="60" y="50" width="3" height="100" fill="url(#accent)" opacity="0.9"/>
+  <text x="90" y="100" font-family="Fira Code, monospace" font-size="42" font-weight="700" fill="#f0f0f5">Saurabh Kumar Pandey</text>
+  <text x="90" y="138" font-family="Fira Code, monospace" font-size="18" fill="#7c5cff">Full-Stack Engineer · Building Sanchar Sarthi 🚂</text>
+  <text x="90" y="166" font-family="Fira Code, monospace" font-size="14" fill="#8b94a8">3rd-Year CSE @ Chandigarh University · IEEE Published Researcher</text>
+</svg>
 
 <br/>
 
@@ -10,13 +32,13 @@
 <a href="https://github.com/saurabhcodeX">
   <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-<a href="https://leetcode.com/">
-  <img src="https://img.shields.io/badge/LeetCode-Solve-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+<a href="mailto:saurabhpandey1344@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-7c5cff?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=7C5CFF&center=true&vCenter=true&width=600&lines=Building+Sanchar+Sarthi+%E2%80%94+IRCTC%2C+but+actually+fast;Published+IEEE+research+on+Deepfake+Detection;First-Year+CSE+%40+Chandigarh+University;Shipping+production-grade+code%2C+not+just+assignments"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=22D3EE&center=true&vCenter=true&width=700&lines=Building+Sanchar+Sarthi+%E2%80%94+IRCTC%2C+but+actually+fast;Published+IEEE+research+on+Deepfake+Detection;3rd-Year+CSE+%40+Chandigarh+University;Shipping+production-grade+code%2C+not+just+assignments"/>
 
 </div>
 
@@ -31,7 +53,7 @@
 ### Sanchar Sarthi
 **A faster, cleaner alternative to IRCTC — built from scratch.**
 
-Indian Railway booking is broken, especially during Tatkal. Sanchar Sarthi is a full booking platform tackling that head-on: train search, passenger details, payment, ticket confirmation, PNR status, and live train tracking — all engineered with a clean `UI → hooks → services` architecture so the React frontend snaps onto a real Spring Boot + MySQL + Redis + Kafka backend with zero component rewrites.
+Indian Railway booking is broken, especially during Tatkal. Sanchar Sarthi tackles that head-on: train search, passenger details, payment, ticket confirmation, PNR status, and live train tracking — engineered with a clean `UI → hooks → services` architecture so the React frontend snaps onto a real Spring Boot + MySQL + Redis + Kafka backend with zero component rewrites.
 
 `React` `Vite` `TailwindCSS` `Spring Boot (in progress)` `MySQL` `Redis` `Kafka`
 
@@ -119,7 +141,5 @@ Indian Railway booking is broken, especially during Tatkal. Sanchar Sarthi is a 
 <div align="center">
 
 ### 🤝 Currently open to internships & ambitious collaborations
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22d3ee,100:7c5cff&height=120&section=footer"/>
 
 </div>
