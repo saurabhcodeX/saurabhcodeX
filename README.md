@@ -50,19 +50,12 @@ saurabh@dev:~$ _
 
 ## 🚂 Featured Build
 
-<table>
-<tr>
-<td width="60%" valign="top">
-
 ### Sanchar Sarthi
 **A faster, cleaner alternative to IRCTC — built from scratch.**
 
 Indian Railway booking is broken, especially during Tatkal. Sanchar Sarthi tackles that head-on: train search, passenger details, payment, ticket confirmation, PNR status, and live train tracking — engineered with a clean `UI → hooks → services` architecture so the React frontend snaps onto a real Spring Boot + MySQL + Redis + Kafka backend with zero component rewrites.
 
 `React` `Vite` `TailwindCSS` `Spring Boot (in progress)` `MySQL` `Redis` `Kafka`
-
-</td>
-<td width="40%" valign="top" align="center">
 
 ```
 ┌──────────────────────┐
@@ -72,10 +65,6 @@ Indian Railway booking is broken, especially during Tatkal. Sanchar Sarthi tackl
 └──────────────────────┘
 ```
 **Live on Vercel** · Backend swap-ready
-
-</td>
-</tr>
-</table>
 
 ---
 
@@ -88,19 +77,12 @@ Indian Railway booking is broken, especially during Tatkal. Sanchar Sarthi tackl
 
 ## ⚙️ Tech Stack
 
-<table>
-<tr>
-<td valign="top" width="33%">
-
 **Languages**
 <br/>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E"/>
 <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54"/>
-
-</td>
-<td valign="top" width="33%">
 
 **Frontend**
 <br/>
@@ -109,19 +91,12 @@ Indian Railway booking is broken, especially during Tatkal. Sanchar Sarthi tackl
 <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white"/>
 <img src="https://img.shields.io/badge/Three.js-black?style=flat-square&logo=three.js&logoColor=white"/>
 
-</td>
-<td valign="top" width="33%">
-
 **Backend & Infra**
 <br/>
 <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Redis-DD0031?style=flat-square&logo=redis&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white"/>
-
-</td>
-</tr>
-</table>
 
 ---
 
