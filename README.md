@@ -27,6 +27,44 @@
 
 <br/>
 
+<!-- ================= NEOFETCH-STYLE INFO CARD ================= -->
+<table width="100%">
+<tr>
+<td width="30%" align="center" valign="middle">
+  <img src="https://raw.githubusercontent.com/saurabhcodeX/saurabhcodeX/main/assets/profile.png" width="180" style="border-radius:50%; border:3px solid #7c5cff;" alt="Saurabh Kumar Pandey"/>
+</td>
+<td width="70%" valign="middle">
+
+```yaml
+saurabh@dev ~ %
+
+OS ..................... Windows 11 / Linux (Dev)
+Uptime .................. 3 Years, 0 Months (CSE @ CU)
+Host .................... Chandigarh University
+Role .................... Full-Stack Engineer & ML Researcher
+IDE ..................... VS Code, IntelliJ IDEA
+
+Languages.Programming ... Java, Python, C++, JavaScript
+Languages.Web ........... React, Spring Boot, Node.js
+Languages.ML ............ NumPy, Pandas, Scikit-learn, NLTK
+
+Research ................ IEEE Published — Deepfake Detection
+Current.Focus ........... Sanchar Sarthi (Railway Booking Platform)
+Current.Paper ........... Email Spam Detection using ML
+
+Contact.Email ........... saurabhpandey1344@gmail.com
+Contact.GitHub .......... github.com/saurabhcodeX
+Contact.LinkedIn ........ /in/saurabh-kumar-pandey
+
+GitHub Stats ............ Repos: ██████████░░  |  Streak: 🔥
+```
+
+</td>
+</tr>
+</table>
+
+<br/>
+
 ## 💻 Terminal
 
 ```bash
@@ -36,6 +74,7 @@ saurabh@dev:~$ whoami
 saurabh@dev:~$ cat current_focus.txt
 → Sanchar Sarthi   : React + Spring Boot Railway booking platform
 → Research         : IEEE Published — Multimodal Deepfake Detection
+→ Paper            : Email Spam Detection using ML (IEEE, in progress)
 → Status           : Open to internships
 
 saurabh@dev:~$ ./check_tatkal_status.sh
@@ -73,6 +112,9 @@ Indian Railway booking is broken, especially during Tatkal. Sanchar Sarthi tackl
 > **Multimodal Deepfake Detection** — Published, IEEE
 > CNN visual features + MFCC/Transformer audio features fused via cross-modal attention, with explainability (XAI) built in — not a black box.
 
+> **Email Spam Detection using Machine Learning** — IEEE, in progress
+> TF-IDF vectorization across five classifiers, with Linear SVM emerging as the top performer on an 83k+ email dataset.
+
 ---
 
 ## ⚙️ Tech Stack
@@ -98,6 +140,13 @@ Indian Railway booking is broken, especially during Tatkal. Sanchar Sarthi tackl
 <img src="https://img.shields.io/badge/Redis-DD0031?style=flat-square&logo=redis&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white"/>
 
+**Machine Learning**
+<br/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/NLTK-306998?style=flat-square&logo=python&logoColor=white"/>
+
 ---
 
 ## 📊 GitHub Activity
@@ -112,7 +161,7 @@ Indian Railway booking is broken, especially during Tatkal. Sanchar Sarthi tackl
 </div>
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=saurabhcodeX&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=22d3ee&line=7c5cff&point=ffffff"/>
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=saurabhcodeX&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=22d3ee&line=7c5cff&point=ffffff"/>
 </div>
 
 ---
