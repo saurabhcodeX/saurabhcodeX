@@ -27,41 +27,10 @@
 
 <br/>
 
-<!-- ================= NEOFETCH-STYLE INFO CARD ================= -->
-<table width="100%">
-<tr>
-<td width="30%" align="center" valign="middle">
-  <img src="https://raw.githubusercontent.com/saurabhcodeX/saurabhcodeX/main/assets/profile.png" width="180" style="border-radius:50%; border:3px solid #7c5cff;" alt="Saurabh Kumar Pandey"/>
-</td>
-<td width="70%" valign="middle">
-
-```yaml
-saurabh@dev ~ %
-
-OS ..................... Windows 11 / Linux (Dev)
-Uptime .................. 3 Years, 0 Months (CSE @ CU)
-Host .................... Chandigarh University
-Role .................... Full-Stack Engineer & ML Researcher
-IDE ..................... VS Code, IntelliJ IDEA
-
-Languages.Programming ... Java, Python, C++, JavaScript
-Languages.Web ........... React, Spring Boot, Node.js
-Languages.ML ............ NumPy, Pandas, Scikit-learn, NLTK
-
-Research ................ IEEE Published — Deepfake Detection
-Current.Focus ........... Sanchar Sarthi (Railway Booking Platform)
-Current.Paper ........... Email Spam Detection using ML
-
-Contact.Email ........... saurabhpandey1344@gmail.com
-Contact.GitHub .......... github.com/saurabhcodeX
-Contact.LinkedIn ........ /in/saurabh-kumar-pandey
-
-GitHub Stats ............ Repos: ██████████░░  |  Streak: 🔥
-```
-
-</td>
-</tr>
-</table>
+<!-- ================= NEOFETCH-STYLE TERMINAL CARD ================= -->
+<div align="center">
+<img src="https://raw.githubusercontent.com/saurabhcodeX/saurabhcodeX/main/assets/terminal-card.png" width="100%" alt="Saurabh Kumar Pandey — terminal info card"/>
+</div>
 
 <br/>
 
