@@ -10,13 +10,13 @@
 <br/><br/>
 
 <a href="https://www.linkedin.com/in/saurabh-kumar-pandey-234324321/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://raw.githubusercontent.com/saurabhcodeX/saurabhcodeX/main/badge_linkedin.png" height="40"/>
 </a>
 <a href="https://github.com/saurabhcodeX">
-  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://raw.githubusercontent.com/saurabhcodeX/saurabhcodeX/main/badge_github.png" height="40"/>
 </a>
 <a href="mailto:saurabhpandey1344@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://raw.githubusercontent.com/saurabhcodeX/saurabhcodeX/main/badge_gmail.png" height="40"/>
 </a>
 
 <br/><br/>
