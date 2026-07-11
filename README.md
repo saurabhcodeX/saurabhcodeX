@@ -29,7 +29,7 @@
 
 <!-- ================= NEOFETCH-STYLE TERMINAL CARD ================= -->
 <div align="center">
-<img src="https://raw.githubusercontent.com/saurabhcodeX/saurabhcodeX/main/assets/terminal-card.png" width="100%" alt="Saurabh Kumar Pandey — terminal info card"/>
+<img src="https://raw.githubusercontent.com/saurabhcodeX/saurabhcodeX/main/terminal-card.png" width="100%" alt="Saurabh Kumar Pandey — terminal info card"/>
 </div>
 
 <br/>
